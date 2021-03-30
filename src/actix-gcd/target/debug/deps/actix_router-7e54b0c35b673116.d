@@ -1,0 +1,12 @@
+/home/mark/rust/hello/src/actix-gcd/target/debug/deps/actix_router-7e54b0c35b673116.rmeta: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/home/mark/rust/hello/src/actix-gcd/target/debug/deps/libactix_router-7e54b0c35b673116.rlib: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/home/mark/rust/hello/src/actix-gcd/target/debug/deps/actix_router-7e54b0c35b673116.d: /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs /home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs
+
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/lib.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/de.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/path.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/resource.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/router.rs:
+/home/mark/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.1.5/src/url.rs:
